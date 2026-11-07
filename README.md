@@ -1,7 +1,7 @@
 
 # Hi, I'm Laurence Aron A. Parungao!
 
-### BS Information Technology 4th Year Student | IT Support Technician | Graphic Designer | UI/UX Designer
+### BS Information Technology Student | Web Development | IT Support | UI/UX Design
 
 I'm a graduating BS Information Technology student at Southern Luzon State University, Philippines, with hands-on academic experience in full-stack web development, database management, UI/UX design, and system testing.
 
