@@ -42,6 +42,8 @@ Developed for the Southern Luzon State University Technology Business Incubator 
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, MySQL, Figma, Git, and GitHub.
 
+[View Start-up Yuyan! Project Showcase](https://github.com/4rroonn/startup-yuyan-showcase)
+
 ## Certifications
 
 - TESDA National Certificate II – Computer Systems Servicing (2026)
