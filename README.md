@@ -3,7 +3,7 @@
 
 ### BS Information Technology Student | Web Development | IT Support | UI/UX Design
 
-I'm a graduating BS Information Technology student at Southern Luzon State University, Philippines, with hands-on academic experience in full-stack web development, database management, UI/UX design, and system testing.
+I'm a graduating BS Information Technology student at Southern Luzon State University, Philippines, with hands-on academic experience in web development, database management, UI/UX design, and system testing.
 
 Currently seeking a **540-hour IT internship (OJT)** where I can apply my technical knowledge, collaborate with professionals, and gain practical industry experience.
 
